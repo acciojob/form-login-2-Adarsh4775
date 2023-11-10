@@ -18,7 +18,7 @@ function formLogin(){
 		    alert(`First Name: ${name1}\nLast Name: ${name2}\nPhone Number: ${phone1}\nEmail ID: ${email1}`);
 		
 	});
-}
+} 
 	formLogin();
  
 
